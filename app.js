@@ -1,1 +1,2 @@
-hello
+const name = "Ulukbek";
+test
