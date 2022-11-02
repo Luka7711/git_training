@@ -1,3 +1,3 @@
 const obj = {
-    name: "Microsoft"
+    name: ["Microsof", "Tesla", "Facebook"]
 }
